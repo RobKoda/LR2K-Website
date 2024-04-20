@@ -1,0 +1,4 @@
+baseURL = 'https://lr2k.com/'
+languageCode = 'en-us'
+title = 'LR2K'
+theme = 'graysx'
