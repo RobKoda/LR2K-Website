@@ -13,3 +13,8 @@
     background-attachment: scroll;
     background-size: cover;
   }
+
+  .about-section {
+    padding-top: 10rem;
+    background: linear-gradient(to bottom, #000 0%, rgba(var(--bs-dark-rgb), 1) 100%);
+  }
