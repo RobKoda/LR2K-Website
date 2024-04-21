@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LR2K</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on LR2K</description>
+    <title>Ens on LR2K</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Ens on LR2K</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://localhost:1313/en/weddings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/weddings/</guid>
       <description>title: your mom type: weddings</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/fr/weddings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/weddings/</guid>
-      <description>title: ta mère type: weddings</description>
     </item>
   </channel>
 </rss>

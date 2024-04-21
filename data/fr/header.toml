@@ -1,17 +1,10 @@
-test = "Bonjour" 
-
 [menus]
   [menus.about]
-  name = "À propos"
-  URL = "#about"
+  name = "Accueil"
+  URL = ""
   weight = 1
 
-  [menus.projects]
-  name = "Projets"
-  URL = "#projects"
+  [menus.weddings]
+  name = "Marriages"
+  URL = "weddings"
   weight = 2
-
-  [menus.contact]
-  name = "Contact"
-  URL = "#signup"
-  weight = 3

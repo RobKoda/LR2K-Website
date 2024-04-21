@@ -1,0 +1,20 @@
+{{ $commonData := index site.Data.common }}
+<section class="contact-section bg-black">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 d-flex justify-content-around">
+            <div class="col-md-4 mb-3 mb-md-0">
+                <div class="card h-100">
+                    <div class="card-body text-center">
+                        <i class="fas fa-envelope text-primary mb-2"></i>
+                        <h4 class="text-uppercase m-0">{{ $commonData.contact.title }}</h4>
+                        <hr class="my-2 mx-auto" />
+                        <div class="small text-black-50"><a href="{{ $commonData.contact.mailToLink }}">{{ $commonData.contact.email }}</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="social d-flex justify-content-center">
+            <a class="mx-2" href="{{ $commonData.contact.facebookLink }}"><i class="fab fa-facebook-f"></i></a>
+        </div>
+    </div>
+</section>

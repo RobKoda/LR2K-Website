@@ -16,20 +16,11 @@ DefaultContentLanguage = "en"
 logo = "/img/Logo_Large_Transparent.png"
 favicon = "/img/favicon.png"
 
-
-# Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
-phone = "123456"
-
 # Socials
-
 twitter = "#"
 facebook = "#"
 github = "https://github.com/akatiggerx04/graysx-hugo"
 
-
 # Credits
-
 # This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
 # This theme is forked by: https://github.com/akatiggerx04
