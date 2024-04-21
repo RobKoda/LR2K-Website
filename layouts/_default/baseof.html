@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-    {{- partial "common/head.html" . -}}
-    <body id="page-top">
-    {{- partial "common/header.html" . -}}
-        <h1>default baseof</h1>
-        <div id="content">
-            {{- block "main" . }}{{- end }}
-        </div>
-    {{- partial "common/footer.html" . -}}
-    </body>
+{{- partial "common/head.html" . -}}
+<body id="page-top">
+        {{- partial "common/header.html" . -}}
+                {{- partial "weddings/contact.html" . -}}
+        {{- partial "common/footer.html" . -}}
+</body>
 </html>

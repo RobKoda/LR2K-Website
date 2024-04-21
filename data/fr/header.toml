@@ -1,10 +1,10 @@
 [menus]
   [menus.about]
   name = "Accueil"
-  URL = ""
+  URL = "/fr/"
   weight = 1
 
   [menus.weddings]
   name = "Marriages"
-  URL = "weddings"
+  URL = "/fr/weddings"
   weight = 2
