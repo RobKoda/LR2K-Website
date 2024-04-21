@@ -1,5 +1,5 @@
 [menus]
-  [menus.about]
+  [menus.homepage]
   name = "Accueil"
   URL = "/fr/"
   weight = 1

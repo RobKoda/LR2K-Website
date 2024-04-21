@@ -15,9 +15,7 @@ DefaultContentLanguage = "en"
 [params]
 logo = "/img/Logo_Large_Transparent.png"
 favicon = "/img/favicon.png"
-
-# Socials
-facebook = "#"
+copyright = 'LR2K'
 
 # Credits
 # This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale

@@ -1,6 +1,6 @@
 [menus]
-  [menus.about]
-  name = "About"
+  [menus.homepage]
+  name = "Homepage"
   URL = "/"
   weight = 1
 
