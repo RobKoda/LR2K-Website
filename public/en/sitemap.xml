@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-21T18:26:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+  </url><url>
     <loc>http://localhost:1313/weddings/</loc>
+    <lastmod>2024-04-21T18:26:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -24,18 +38,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

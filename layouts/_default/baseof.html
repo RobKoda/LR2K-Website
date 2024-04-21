@@ -3,7 +3,8 @@
 {{- partial "common/head.html" . -}}
 <body id="page-top">
         {{- partial "common/header.html" . -}}
-                {{- partial "weddings/contact.html" . -}}
+        {{ block "main" . }}
+        {{ end }}
         {{- partial "common/footer.html" . -}}
 </body>
 </html>

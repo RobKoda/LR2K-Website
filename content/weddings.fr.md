@@ -1,2 +1,5 @@
-title: ta mère
-type: weddings
++++
+title = 'Marriages'
+date = 2024-04-21T18:26:23+02:00
+type = 'weddings'
++++

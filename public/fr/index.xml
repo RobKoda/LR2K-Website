@@ -6,13 +6,14 @@
     <description>Recent content on LR2K</description>
     <generator>Hugo 0.125.2</generator>
     <language>fr</language>
+    <lastBuildDate>Sun, 21 Apr 2024 18:26:23 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Marriages</title>
       <link>http://localhost:1313/fr/weddings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Apr 2024 18:26:23 +0200</pubDate>
       <guid>http://localhost:1313/fr/weddings/</guid>
-      <description>title: ta mère type: weddings</description>
+      <description></description>
     </item>
   </channel>
 </rss>
