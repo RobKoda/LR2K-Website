@@ -5,6 +5,6 @@
   weight = 1
 
   [menus.weddings]
-  name = "Marriages"
+  name = "Mariages"
   URL = "/fr/weddings"
   weight = 2
